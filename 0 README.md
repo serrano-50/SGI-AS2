@@ -25,5 +25,5 @@ ADMINISTRADORES ---> AD01 AD02
 
 ## EXPLICATIVO
 
-![VIDEO](https://drive.google.com/file/d/1_IfLHclqUuGrNxcJQA5gYGnPuFcSO3i8/view?usp=sharing)
+![VIDEO]([https://drive.google.com/file/d/1_IfLHclqUuGrNxcJQA5gYGnPuFcSO3i8/view?usp=sharing](https://drive.google.com/file/d/1_IfLHclqUuGrNxcJQA5gYGnPuFcSO3i8/view))
 
