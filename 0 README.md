@@ -23,7 +23,5 @@ ADMINISTRADORES ---> AD01 AD02
 
 ![](https://cdn.glitch.global/9dafd543-5a50-43b1-a036-762c9cb807d4/109.png?v=1750859563481)
 
-## EXPLICATIVO
 
-![VIDEO]([https://drive.google.com/file/d/1_IfLHclqUuGrNxcJQA5gYGnPuFcSO3i8/view?usp=sharing](https://drive.google.com/file/d/1_IfLHclqUuGrNxcJQA5gYGnPuFcSO3i8/view))
 
